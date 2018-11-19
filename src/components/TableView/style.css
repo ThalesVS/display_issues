@@ -1,0 +1,3 @@
+.list tbody tr:nth-child(odd) {
+    background-color: #eee;
+}

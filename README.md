@@ -1,8 +1,11 @@
-# display_issues
-Display issues from github API
+# Display Issues
 
-to install
- - npm install
+---
 
-to run
- - npm start
+## Installation
+
+* npm install
+
+## Running
+
+* npm start
